@@ -419,6 +419,9 @@
   .bg-white {
     background-color: var(--color-white);
   }
+  .bg-\[url\(\'\/Images\/2026_11_12_12_47_37_IMG_4250\.JPG\'\)\] {
+    background-image: url('/Images/2026_11_12_12_47_37_IMG_4250.JPG');
+  }
   .bg-\[url\(\'\/src\/Images\/2026_11_12_12_47_37_IMG_4250\.JPG\'\)\] {
     background-image: url('/src/Images/2026_11_12_12_47_37_IMG_4250.JPG');
   }
@@ -547,6 +550,12 @@
     }
     .max-md\:gap-0 {
       gap: 0px;
+    }
+    .max-md\:bg-\[url\(\'\/Images\/4\.JPG\'\)\] {
+      background-image: url('/Images/4.JPG');
+    }
+    .max-md\:bg-\[url\(\'\/src\/4\.JPG\'\)\] {
+      background-image: url('/src/4.JPG');
     }
     .max-md\:bg-\[url\(\'\/src\/Images\/\'\)\] {
       background-image: url('/src/Images/');
